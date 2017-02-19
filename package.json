@@ -1,0 +1,19 @@
+{
+  "name": "quick-start",
+  "version": "1.0.0",
+  "description": "The mongodb quickstart guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongodb",
+    "quick",
+    "start"
+  ],
+  "author": "Alex Royle",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.24"
+  }
+}
